@@ -5,7 +5,7 @@ Keep everything in one file
 
 ![dont architecture](images/architecture/dont.png)
 ### Do
-Separate differont logical steps into different modules
+Separate different logical steps into different modules
 
 ![do architecture](images/architecture/do.png)
 
