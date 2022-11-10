@@ -1,8 +1,12 @@
 # Do and don't in math projects
 ## Project architecture
 ### Don't
+Keep everything in one file
+
 ![dont architecture](images/architecture/dont.png)
 ### Do
+Separate differont logical steps into different modules
+
 ![do architecture](images/architecture/do.png)
 
 ## Functionalities
