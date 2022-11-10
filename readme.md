@@ -18,3 +18,19 @@ Separate functionalities into functions, and group similar functionalities in lo
 ![do_parsing](images/functions/do_parsing.png)
 ![do_geometry](images/functions/do_geometry.png)
 ![do_result_printing](images/functions/do_result_printing.png)
+
+## Git
+
+### Don't
+- Commit unrelated functionalities together
+- Commit without explaining what the commit does
+- Commit multiple functionalities together
+
+![dont_git](images/git/dont.png)
+
+### Do
+- Commit atomic changes
+- Explain concisely what the commit does
+- Use imperative style
+
+![do_git](images/git/do.png)
