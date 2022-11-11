@@ -1,4 +1,6 @@
 # Do and don't in math projects
+## Warning
+#### Code that does not try to follow the guidelines about project architecture and functionalities will not be reviewed beyond "You should follow the guidelines"
 ## Project architecture
 ### Don't
 Keep everything in one file
@@ -38,3 +40,25 @@ Separate functionalities into functions, and group similar functionalities in lo
 - Use imperative style
 
 ![do_git](images/git/do.png)
+
+## Testing
+
+### Don't
+- Not test important functions
+- Test from a script
+
+![dont_testing](images/testing/dont.png)
+
+### Do
+- Test from a test file
+- Test important functions
+- Use a testing framework
+- Have an appropriate architecture
+
+![do_testing](images/testing/do_architecture.png)
+![do_testing](images/testing/do_geometry.png)
+![do_testing](images/testing/do_test_geometry.png)
+
+Some IDEs let you directly run tests from the file, and you can also run them from the command line with pytest
+
+![do_testing](images/testing/do_run_test.png )
