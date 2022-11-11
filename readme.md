@@ -1,6 +1,13 @@
 # Do and don't in math projects
 ## Warning
 #### Code that does not try to follow the guidelines about project architecture and functionalities will not be reviewed beyond "You should follow the guidelines"
+
+## Sections
+- [Project architecture](#project-architecture)
+- [Functionalities](#functionalities)
+- [Git](#git)
+- [Testing](#testing)
+
 ## Project architecture
 ### Don't
 Keep everything in one file
